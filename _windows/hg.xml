@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="C:\Program Files\Mercurial\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/waveaccessllc/manumatix-video-cms" value="vitaliy.mazurenko@waveaccess.ru" />
+      </map>
+    </option>
+  </component>
+</application>

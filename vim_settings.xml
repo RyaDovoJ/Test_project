@@ -1,0 +1,648 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson01/task01/Solution.java" timestamp="1461856125714">
+        <mark key="[" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus01/Solution.java" timestamp="1463749918660">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task05/StringHelper.java" timestamp="1463739276997">
+        <mark key="[" line="15" column="8" />
+      </file>
+      <file name="D:/Hello world/src/Hello.java" timestamp="1555595350777">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Cat.java" timestamp="1463747203907">
+        <mark key="[" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task05/Solution.java" timestamp="1461943617838">
+        <mark key="[" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home02/Solution.java" timestamp="1463471123723">
+        <mark key="[" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task03/Solution.java" timestamp="1463411000128">
+        <mark key="[" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task01/Solution.java" timestamp="1461840294055">
+        <mark key="[" line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task02/Cat.java" timestamp="1463736750690">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task03/Dog.java" timestamp="1463668083257">
+        <mark key="[" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home03/Solution.java" timestamp="1463747615782">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task02/Cat.java" timestamp="1463733797863">
+        <mark key="[" line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task04/Solution.java" timestamp="1461848162868">
+        <mark key="[" line="15" column="7" />
+      </file>
+      <file name="D:/test/src/test/java/test/test.java" timestamp="1513173676264">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task05/Rectangle.java" timestamp="1463668434281">
+        <mark key="[" line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" timestamp="1466674701464">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task02/Solution.java" timestamp="1461941728431">
+        <mark key="[" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home03/Solution.java" timestamp="1461854740634">
+        <mark key="[" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson07/task03/Dog.java" timestamp="1463665968607">
+        <mark key="[" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/home05/Solution.java" timestamp="1463730009586">
+        <mark key="[" line="22" column="38" />
+      </file>
+      <file name="C:/WSFtest/src/CheckingDifferentImages/testWSF.java" timestamp="1511423098058">
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task01/Solution.java" timestamp="1463400560315">
+        <mark key="[" line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task04/Cat.java" timestamp="1461914294319">
+        <mark key="[" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task10/Solution.java" timestamp="1461940423951">
+        <mark key="[" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home01/Solution.java" timestamp="1463469541371">
+        <mark key="[" line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task03/Util.java" timestamp="1463736788770">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/home04/Solution.java" timestamp="1463730343534">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task09/Solution.java" timestamp="1461936369028">
+        <mark key="[" line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task01/Solution.java" timestamp="1463403655745">
+        <mark key="[" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home04/Solution.java" timestamp="1463747892515">
+        <mark key="[" line="8" column="10" />
+      </file>
+      <file name="D:/test/src/test/test.java" timestamp="1513171333526">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task01/Solution.java" timestamp="1463407697657">
+        <mark key="[" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home04/Solution.java" timestamp="1463470649683">
+        <mark key="[" line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/compare/src/test/java/compare/compare.java" timestamp="1513671953649">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task01/Cat.java" timestamp="1463736067480">
+        <mark key="[" line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home01/Solution.java" timestamp="1463740687629">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="D:/test/src/request/request.java" timestamp="1513175217987">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task03/Dog.java" timestamp="1463477896424">
+        <mark key="[" line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home02/Solution.java" timestamp="1461855105537">
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task08/Solution.java" timestamp="1463394754936">
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task04/Cat.java" timestamp="1463735089645">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+      <file name="D:/untitled/src/test.java" timestamp="1513166551642">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task05/Solution.java" timestamp="1463478958995">
+        <mark key="[" line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home05/Solution.java" timestamp="1463749042490">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task02/Solution.java" timestamp="1463403897785">
+        <mark key="[" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java" timestamp="1463739053605">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task04/Solution.java" timestamp="1463402765288">
+        <mark key="[" line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task01/Solution.java" timestamp="1461918724466">
+        <mark key="[" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task03/Solution.java" timestamp="1463402537248">
+        <mark key="[" line="16" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555595744190">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task03/Solution.java" timestamp="1461849978023">
+        <mark key="[" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task03/Solution.java" timestamp="1463734187816">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus01/Solution.java" timestamp="1463671688161">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home03/Solution.java" timestamp="1463471395559">
+        <mark key="[" line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task04/Solution.java" timestamp="1463404713416">
+        <mark key="[" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task04/Circle.java" timestamp="1463668355465">
+        <mark key="[" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson07/task04/Circle.java" timestamp="1463668364708">
+        <mark key="[" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home07/Solution.java" timestamp="1463749684190">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task02/Cat.java" timestamp="1463668014575">
+        <mark key="[" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home01/Solution.java" timestamp="1461855156139">
+        <mark key="[" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson01/task02/Solution.java" timestamp="1461856296932">
+        <mark key="[" line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task01/Cat.java" timestamp="1461913610152">
+        <mark key="[" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task04/Solution.java" timestamp="1463478823151">
+        <mark key="[" line="9" column="5" />
+      </file>
+      <file name="D:/WSF/src/Checkimages/WSF.java" timestamp="1511422963557">
+        <mark key="'" line="61" column="34" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1513175391800">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/aeroflot/src/aeroflot/aeroflot.java" timestamp="1509094608226">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="D:/compare/src/compare/compare.java" timestamp="1513673680522">
+        <mark key="v" line="6" column="20" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="59" filename="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task08/Solution.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus03/Solution.java" />
+      <jump line="22" column="36" filename="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus01/Solution.java" />
+      <jump line="34" column="32" filename="D:/WSF/src/Checkimages/WSF.java" />
+      <jump line="62" column="34" filename="D:/WSF/src/Checkimages/WSF.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>//    @Test
+//    public void Chrome_Request() throws Exception {
+//
+//        System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;D://WSF//chromedriver//chromedriver.exe&quot;);
+          WebDriver driver = new ChromeDriver(o);
+//        WebDriver driver = new ChromeDriver(0);
+//        driver.get(&quot;https:/bcg.wavea.cc/new/site/&quot;);
+//        driver.manage().window().maximize();
+//        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+//        driver.findElement(By.name(&quot;a1&quot;)).click();
+//        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+//        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+//        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+//        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+//        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+//        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+//        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+//        driver.findElement(By.linkText(&quot;15&quot;)).click();
+//        Thread.sleep(2000);
+//        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+//        driver.findElement(By.linkText(&quot;28&quot;)).click();
+//        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+//        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
+//        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+//        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko+58@waveaccess.ru&quot;);
+//        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456712&quot;);
+//        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+//        Thread.sleep(6000);
+//        driver.quit();
+//    }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Initial commit</text>
+      </register>
+      <register name="2" type="4">
+        <text>ChromeOptions o = new ChromeOptions();
+           o.addArguments(&quot;disable-extensions&quot;);
+           o.addArguments(&quot;--start-maximized&quot;);</text>
+      </register>
+      <register name="3" type="4">
+        <text>public class compare {
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
+      </register>
+      <register name="5" type="4">
+        <text>public class compare {
+}</text>
+      </register>
+      <register name="6" type="4">
+        <text>.implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        driver.findElement(By.linkText(&quot;15&quot;)).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+
+    @Test
+    public void Firefox_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.gecko.driver&quot;, &quot;D://WSF//geckodriver//geckodriver.exe&quot;);
+        WebDriver driver = new FirefoxDriver();
+        driver.get(&quot;https://www.wholesale-flights.com/&quot;);
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        driver.findElement(By.linkText(&quot;15&quot;)).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Firefox&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+
+        @Test
+    public void EDGE_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.edge.driver&quot;, &quot;D://WSF//EDGE//MicrosoftWebDriver.exe&quot;);
+        WebDriver driver = new EdgeDriver();
+        driver.get(&quot;https://www.wholesale-flights.com/&quot;);
+            Thread.sleep(2000);
+        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+            Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+            Thread.sleep(1000);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+            Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+            Thread.sleep(1000);
+        driver.findElement(By.linkText(&quot;14&quot;)).click();
+        Thread.sleep(3000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+            Thread.sleep(1000);
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+            Thread.sleep(1000);
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test EDGE&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+    @Test
+    public void Chrome_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;D://WSF//chromedriver//chromedriver.exe&quot;);
+        WebDriver driver = new ChromeDriver();
+        driver.get(&quot;https://www.businessclassguru.com/&quot;);
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        driver.findElement(By.linkText(&quot;15&quot;)).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+
+    @Test
+    public void Firefox_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.gecko.driver&quot;, &quot;D://WSF//geckodriver//geckodriver.exe&quot;);
+        WebDriver driver = new FirefoxDriver();
+        driver.get(&quot;https://www.businessclassguru.com/&quot;);
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        driver.findElement(By.linkText(&quot;15&quot;)).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Firefox&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+
+    @Test
+    public void EDGE_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.edge.driver&quot;, &quot;D://WSF//EDGE//MicrosoftWebDriver.exe&quot;);
+        WebDriver driver = new EdgeDriver();
+        driver.get(&quot;https://www.businessclassguru.com/&quot;);
+        Thread.sleep(2000);
+        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.linkText(&quot;14&quot;)).click();
+        Thread.sleep(3000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test EDGE&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+    @Test
+    public void Chrome_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;D://WSF//chromedriver//chromedriver.exe&quot;);
+        WebDriver driver = new ChromeDriver();
+        driver.get(&quot;https://www.wholesalalebusinessclass.com/&quot;);
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        driver.findElement(By.linkText(&quot;15&quot;)).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+
+    @Test
+    public void Firefox_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.gecko.driver&quot;, &quot;D://WSF//geckodriver//geckodriver.exe&quot;);
+        WebDriver driver = new FirefoxDriver();
+        driver.get(&quot;https://www.wholesalalebusinessclass.com/&quot;);
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        driver.findElement(By.linkText(&quot;15&quot;)).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Firefox&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+
+    @Test
+    public void EDGE_Request() throws Exception {
+
+        System.setProperty(&quot;webdriver.edge.driver&quot;, &quot;D://WSF//EDGE//MicrosoftWebDriver.exe&quot;);
+        WebDriver driver = new EdgeDriver();
+        driver.get(&quot;https://www.wholesalalebusinessclass.com/&quot;);
+        Thread.sleep(2000);
+        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+        driver.findElement(By.name(&quot;a1&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.linkText(&quot;14&quot;)).click();
+        Thread.sleep(3000);
+        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.linkText(&quot;28&quot;)).click();
+        Thread.sleep(1000);
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
+        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test EDGE&quot;);
+        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
+        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
+        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
+        driver.findElement(By.id(&quot;submit_search&quot;)).click();
+        Thread.sleep(6000);
+        driver.quit();
+    }
+}</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IC8vIFN5c3RlbS5zZXRQcm9wZXJ0eSgid2ViZHJpdmVyLmNocm9tZS5kcml2ZXIiLCAiRDovL1dTRi8vY2hyb21lZHJpdmVyLy9jaHJvbWVkcml2ZXIuZXhlIik7CiAgIC8vIHByaXZhdGUgV2ViRHJpdmVyIGRyaXZlcjsKICAgLy8gcHJpdmF0ZSBTdHJpbmcgYmFzZVVybDsKICAvLyAgcHJpdmF0ZSBib29sZWFuIGFjY2VwdE5leHRBbGVydCA9IHRydWU7CiAgIC8vIHByaXZhdGUgU3RyaW5nQnVmZmVyIHZlcmlmaWNhdGlvbkVycm9ycyA9IG5ldyBTdHJpbmdCdWZmZXIoKTsKCiAgIC8vIEBCZWZvcmUKICAgLy8gcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgLy8gIFN5c3RlbS5zZXRQcm9wZXJ0eSgid2ViZHJpdmVyLmNocm9tZS5kcml2ZXIiLCAiRDovL1dTRi8vY2hyb21lZHJpdmVyLy9jaHJvbWVkcml2ZXIuZXhlIik7CiAgICAgLy8gICBXZWJEcml2ZXIgZHJpdmVyID0gbmV3IENocm9tZURyaXZlcigpOwogICAgICAvLyAgYmFzZVVybCA9ICJodHRwOi8vYWVyb2Zsb3QtdnBzLndhdmVhLmNjLyI7CgogLy8gICB9</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLnN3aXRjaFRvKCkuYWxlcnQoKTsK</text>
+      </register>
+      <register name="9" type="4">
+        <text>}
+
+    @After
+    public void tearDown() throws Exception {</text>
+      </register>
+      <register name="-" type="4">
+        <text>Initial commit</text>
+      </register>
+    </registers>
+    <search>
+      <last-offset />
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
