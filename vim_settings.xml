@@ -107,6 +107,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home04/Solution.java" timestamp="1463747892515">
         <mark key="[" line="8" column="10" />
       </file>
+      <file name="E:/Tomcat 9.0/conf/tomcat-users.xml" timestamp="1555601074592">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="2" />
+      </file>
       <file name="D:/test/src/test/test.java" timestamp="1513171333526">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="1" />
@@ -257,6 +262,12 @@
     </jumps>
     <registers>
       <register name="1" type="4">
+        <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
+      </register>
+      <register name="2" type="4">
         <text>//    @Test
 //    public void Chrome_Request() throws Exception {
 //
@@ -288,26 +299,23 @@
 //        driver.quit();
 //    }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Hello_world</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>ChromeOptions o = new ChromeOptions();
            o.addArguments(&quot;disable-extensions&quot;);
            o.addArguments(&quot;--start-maximized&quot;);</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>public class compare {
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>public class compare {
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.implicitlyWait(20, TimeUnit.SECONDS);
         driver.findElement(By.name(&quot;a1&quot;)).click();
         driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
@@ -600,20 +608,14 @@
     }
 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8vIFN5c3RlbS5zZXRQcm9wZXJ0eSgid2ViZHJpdmVyLmNocm9tZS5kcml2ZXIiLCAiRDovL1dTRi8vY2hyb21lZHJpdmVyLy9jaHJvbWVkcml2ZXIuZXhlIik7CiAgIC8vIHByaXZhdGUgV2ViRHJpdmVyIGRyaXZlcjsKICAgLy8gcHJpdmF0ZSBTdHJpbmcgYmFzZVVybDsKICAvLyAgcHJpdmF0ZSBib29sZWFuIGFjY2VwdE5leHRBbGVydCA9IHRydWU7CiAgIC8vIHByaXZhdGUgU3RyaW5nQnVmZmVyIHZlcmlmaWNhdGlvbkVycm9ycyA9IG5ldyBTdHJpbmdCdWZmZXIoKTsKCiAgIC8vIEBCZWZvcmUKICAgLy8gcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgLy8gIFN5c3RlbS5zZXRQcm9wZXJ0eSgid2ViZHJpdmVyLmNocm9tZS5kcml2ZXIiLCAiRDovL1dTRi8vY2hyb21lZHJpdmVyLy9jaHJvbWVkcml2ZXIuZXhlIik7CiAgICAgLy8gICBXZWJEcml2ZXIgZHJpdmVyID0gbmV3IENocm9tZURyaXZlcigpOwogICAgICAvLyAgYmFzZVVybCA9ICJodHRwOi8vYWVyb2Zsb3QtdnBzLndhdmVhLmNjLyI7CgogLy8gICB9</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLnN3aXRjaFRvKCkuYWxlcnQoKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>}
-
-    @After
-    public void tearDown() throws Exception {</text>
-      </register>
       <register name="-" type="4">
-        <text>Hello_world</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
