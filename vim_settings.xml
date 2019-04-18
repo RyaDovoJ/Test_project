@@ -183,10 +183,10 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task03/Solution.java" timestamp="1463402537248">
         <mark key="[" line="16" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555596289894">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1555596844097">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task03/Solution.java" timestamp="1461849978023">
         <mark key="[" line="14" column="4" />
@@ -289,7 +289,7 @@
 //    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Initial commit</text>
+        <text>Hello_world</text>
       </register>
       <register name="2" type="4">
         <text>ChromeOptions o = new ChromeOptions();
@@ -613,7 +613,7 @@
     public void tearDown() throws Exception {</text>
       </register>
       <register name="-" type="4">
-        <text>Initial commit</text>
+        <text>Hello_world</text>
       </register>
     </registers>
     <search>
