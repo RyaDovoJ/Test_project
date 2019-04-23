@@ -126,6 +126,15 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556008512773">
+        <mark key="[" line="369" column="91" />
+        <mark key="]" line="369" column="91" />
+        <mark key="^" line="358" column="0" />
+        <mark key="." line="369" column="91" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556007882561">
+        <mark key="[" line="4" column="24" />
+      </file>
       <file name="D:/compare/src/test/java/compare/compare.java" timestamp="1513671953649">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="0" />
@@ -232,11 +241,17 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task04/Solution.java" timestamp="1463478823151">
         <mark key="[" line="9" column="5" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightOneWayBody.json" timestamp="1556007556116" />
       <file name="D:/WSF/src/Checkimages/WSF.java" timestamp="1511422963557">
         <mark key="'" line="61" column="34" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDomesticBody.json" timestamp="1556007872989">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1513175391800">
         <mark key="[" line="0" column="0" />
@@ -261,13 +276,19 @@
       <jump line="62" column="34" filename="D:/WSF/src/Checkimages/WSF.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KGdldEJ5dGVzRnJvbVJlc291cmNlKCJxdWVyeUZsaWdodERvbWVzdGljQm9keS5qc29uIikpCg==</text>
       </register>
       <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5RmxpZ2h0T25lV2F5VGVzdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>//    @Test
 //    public void Chrome_Request() throws Exception {
 //
@@ -299,23 +320,23 @@
 //        driver.quit();
 //    }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>ChromeOptions o = new ChromeOptions();
            o.addArguments(&quot;disable-extensions&quot;);
            o.addArguments(&quot;--start-maximized&quot;);</text>
-      </register>
-      <register name="4" type="4">
-        <text>public class compare {
-}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
       </register>
       <register name="6" type="4">
         <text>public class compare {
 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
+      </register>
+      <register name="8" type="4">
+        <text>public class compare {
+}</text>
+      </register>
+      <register name="9" type="4">
         <text>.implicitlyWait(20, TimeUnit.SECONDS);
         driver.findElement(By.name(&quot;a1&quot;)).click();
         driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
@@ -608,14 +629,8 @@
     }
 }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vIFN5c3RlbS5zZXRQcm9wZXJ0eSgid2ViZHJpdmVyLmNocm9tZS5kcml2ZXIiLCAiRDovL1dTRi8vY2hyb21lZHJpdmVyLy9jaHJvbWVkcml2ZXIuZXhlIik7CiAgIC8vIHByaXZhdGUgV2ViRHJpdmVyIGRyaXZlcjsKICAgLy8gcHJpdmF0ZSBTdHJpbmcgYmFzZVVybDsKICAvLyAgcHJpdmF0ZSBib29sZWFuIGFjY2VwdE5leHRBbGVydCA9IHRydWU7CiAgIC8vIHByaXZhdGUgU3RyaW5nQnVmZmVyIHZlcmlmaWNhdGlvbkVycm9ycyA9IG5ldyBTdHJpbmdCdWZmZXIoKTsKCiAgIC8vIEBCZWZvcmUKICAgLy8gcHVibGljIHZvaWQgc2V0VXAoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgLy8gIFN5c3RlbS5zZXRQcm9wZXJ0eSgid2ViZHJpdmVyLmNocm9tZS5kcml2ZXIiLCAiRDovL1dTRi8vY2hyb21lZHJpdmVyLy9jaHJvbWVkcml2ZXIuZXhlIik7CiAgICAgLy8gICBXZWJEcml2ZXIgZHJpdmVyID0gbmV3IENocm9tZURyaXZlcigpOwogICAgICAvLyAgYmFzZVVybCA9ICJodHRwOi8vYWVyb2Zsb3QtdnBzLndhdmVhLmNjLyI7CgogLy8gICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLnN3aXRjaFRvKCkuYWxlcnQoKTsK</text>
-      </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
