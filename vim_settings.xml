@@ -126,11 +126,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556012169942">
-        <mark key="[" line="358" column="6" />
-        <mark key="]" line="358" column="6" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556014641203">
+        <mark key="[" line="393" column="30" />
+        <mark key="]" line="393" column="30" />
         <mark key="^" line="359" column="0" />
-        <mark key="." line="358" column="6" />
+        <mark key="." line="393" column="30" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556007882561">
         <mark key="[" line="4" column="24" />
@@ -276,19 +276,34 @@
       <jump line="62" column="34" filename="D:/WSF/src/Checkimages/WSF.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KGdldEJ5dGVzRnJvbVJlc291cmNlKCJxdWVyeUZsaWdodERvbWVzdGljQm9keS5qc29uIikpCg==</text>
+      <register name="1" type="4">
+        <text>@Test
+    public void queryFlightDepartNotFromUSATest() throws IOException {
+
+        given()
+                .spec(baseUrlAndHeaders)
+                .body(getBytesFromResource(&quot;queryFlightDepartNotFromUSABody.json&quot;))
+                .post(&quot;/flight/query-flight&quot;)
+                .then()
+                .statusCode(describedAs(&quot;Expected response status code is 200&quot;, is(200)))
+                .body(describedAs(&quot;Json Schema must be right&quot;, matchesJsonSchemaInClasspath(&quot;queryFlightSchema.json&quot;)))
+                .body(&quot;success&quot;, is(false))
+                .body(&quot;errorMessage&quot;, is(&quot;We do not sell economy, domestic, or flights that cost under $2500.&quot;));
+    }</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KGdldEJ5dGVzRnJvbVJlc291cmNlKCJxdWVyeUZsaWdodERvbWVzdGljQm9keS5qc29uIikpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5RmxpZ2h0T25lV2F5VGVzdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//    @Test
 //    public void Chrome_Request() throws Exception {
 //
@@ -320,313 +335,20 @@
 //        driver.quit();
 //    }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ChromeOptions o = new ChromeOptions();
            o.addArguments(&quot;disable-extensions&quot;);
            o.addArguments(&quot;--start-maximized&quot;);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>public class compare {
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text>public class compare {
-}</text>
-      </register>
       <register name="9" type="4">
-        <text>.implicitlyWait(20, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        driver.findElement(By.linkText(&quot;15&quot;)).click();
-        Thread.sleep(2000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-
-    @Test
-    public void Firefox_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.gecko.driver&quot;, &quot;D://WSF//geckodriver//geckodriver.exe&quot;);
-        WebDriver driver = new FirefoxDriver();
-        driver.get(&quot;https://www.wholesale-flights.com/&quot;);
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        driver.findElement(By.linkText(&quot;15&quot;)).click();
-        Thread.sleep(2000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Firefox&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-
-        @Test
-    public void EDGE_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.edge.driver&quot;, &quot;D://WSF//EDGE//MicrosoftWebDriver.exe&quot;);
-        WebDriver driver = new EdgeDriver();
-        driver.get(&quot;https://www.wholesale-flights.com/&quot;);
-            Thread.sleep(2000);
-        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-            Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-            Thread.sleep(1000);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-            Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-            Thread.sleep(1000);
-        driver.findElement(By.linkText(&quot;14&quot;)).click();
-        Thread.sleep(3000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-            Thread.sleep(1000);
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-            Thread.sleep(1000);
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test EDGE&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-    @Test
-    public void Chrome_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;D://WSF//chromedriver//chromedriver.exe&quot;);
-        WebDriver driver = new ChromeDriver();
-        driver.get(&quot;https://www.businessclassguru.com/&quot;);
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        driver.findElement(By.linkText(&quot;15&quot;)).click();
-        Thread.sleep(2000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-
-    @Test
-    public void Firefox_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.gecko.driver&quot;, &quot;D://WSF//geckodriver//geckodriver.exe&quot;);
-        WebDriver driver = new FirefoxDriver();
-        driver.get(&quot;https://www.businessclassguru.com/&quot;);
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        driver.findElement(By.linkText(&quot;15&quot;)).click();
-        Thread.sleep(2000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Firefox&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-
-    @Test
-    public void EDGE_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.edge.driver&quot;, &quot;D://WSF//EDGE//MicrosoftWebDriver.exe&quot;);
-        WebDriver driver = new EdgeDriver();
-        driver.get(&quot;https://www.businessclassguru.com/&quot;);
-        Thread.sleep(2000);
-        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.linkText(&quot;14&quot;)).click();
-        Thread.sleep(3000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test EDGE&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-    @Test
-    public void Chrome_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;D://WSF//chromedriver//chromedriver.exe&quot;);
-        WebDriver driver = new ChromeDriver();
-        driver.get(&quot;https://www.wholesalalebusinessclass.com/&quot;);
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        driver.findElement(By.linkText(&quot;15&quot;)).click();
-        Thread.sleep(2000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Chrome&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-
-    @Test
-    public void Firefox_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.gecko.driver&quot;, &quot;D://WSF//geckodriver//geckodriver.exe&quot;);
-        WebDriver driver = new FirefoxDriver();
-        driver.get(&quot;https://www.wholesalalebusinessclass.com/&quot;);
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        driver.findElement(By.linkText(&quot;15&quot;)).click();
-        Thread.sleep(2000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test Firefox&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
-
-    @Test
-    public void EDGE_Request() throws Exception {
-
-        System.setProperty(&quot;webdriver.edge.driver&quot;, &quot;D://WSF//EDGE//MicrosoftWebDriver.exe&quot;);
-        WebDriver driver = new EdgeDriver();
-        driver.get(&quot;https://www.wholesalalebusinessclass.com/&quot;);
-        Thread.sleep(2000);
-        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-        driver.findElement(By.name(&quot;a1&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).clear();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripFrom&quot;)).sendKeys(&quot;Kiev&quot;);
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;ui-id-4&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).clear();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripTo&quot;)).sendKeys(&quot;San f&quot;);
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;ui-id-5&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.id(&quot;search_form:roundTripDepart&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.linkText(&quot;14&quot;)).click();
-        Thread.sleep(3000);
-        driver.findElement(By.id(&quot;search_form:roundTripReturn&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.linkText(&quot;28&quot;)).click();
-        Thread.sleep(1000);
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).clear();
-        driver.findElement(By.name(&quot;sbFirstName&quot;)).sendKeys(&quot;Test EDGE&quot;);
-        driver.findElement(By.name(&quot;sbEmail&quot;)).clear();
-        driver.findElement(By.name(&quot;sbEmail&quot;)).sendKeys(&quot;vitaliy.mazurenko@waveaccess.ru&quot;);
-        driver.findElement(By.name(&quot;sbPhone&quot;)).sendKeys(&quot;0123456789&quot;);
-        driver.findElement(By.id(&quot;submit_search&quot;)).click();
-        Thread.sleep(6000);
-        driver.quit();
-    }
+        <text>public class compare {
 }</text>
       </register>
       <register name="-" type="4">
