@@ -126,11 +126,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556008512773">
-        <mark key="[" line="369" column="91" />
-        <mark key="]" line="369" column="91" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556009236375">
+        <mark key="[" line="357" column="6" />
+        <mark key="]" line="357" column="6" />
         <mark key="^" line="358" column="0" />
-        <mark key="." line="369" column="91" />
+        <mark key="." line="357" column="6" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556007882561">
         <mark key="[" line="4" column="24" />
@@ -280,7 +280,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KGdldEJ5dGVzRnJvbVJlc291cmNlKCJxdWVyeUZsaWdodERvbWVzdGljQm9keS5qc29uIikpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5RmxpZ2h0T25lV2F5VGVzdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
@@ -630,7 +630,7 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
     </registers>
     <search>
