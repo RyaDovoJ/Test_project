@@ -126,11 +126,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556014641203">
-        <mark key="[" line="393" column="30" />
-        <mark key="]" line="393" column="30" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556015312328">
+        <mark key="[" line="391" column="16" />
+        <mark key="]" line="391" column="16" />
         <mark key="^" line="359" column="0" />
-        <mark key="." line="393" column="30" />
+        <mark key="." line="391" column="16" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556007882561">
         <mark key="[" line="4" column="24" />
@@ -277,6 +277,14 @@
     </jumps>
     <registers>
       <register name="1" type="4">
+        <text>.queryParam(&quot;nearest&quot;, false)
+                .queryParam(&quot;popularUSA&quot;, true)</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.queryParam(&quot;nearest&quot;, false)
+                .queryParam(&quot;popularUSA&quot;, true)</text>
+      </register>
+      <register name="2" type="4">
         <text>@Test
     public void queryFlightDepartNotFromUSATest() throws IOException {
 
@@ -291,19 +299,16 @@
                 .body(&quot;errorMessage&quot;, is(&quot;We do not sell economy, domestic, or flights that cost under $2500.&quot;));
     }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KGdldEJ5dGVzRnJvbVJlc291cmNlKCJxdWVyeUZsaWdodERvbWVzdGljQm9keS5qc29uIikpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5RmxpZ2h0T25lV2F5VGVzdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>//    @Test
 //    public void Chrome_Request() throws Exception {
 //
@@ -335,21 +340,17 @@
 //        driver.quit();
 //    }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>ChromeOptions o = new ChromeOptions();
            o.addArguments(&quot;disable-extensions&quot;);
            o.addArguments(&quot;--start-maximized&quot;);</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>public class compare {
 }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>public class compare {
-}</text>
       </register>
       <register name="-" type="4">
         <text />
