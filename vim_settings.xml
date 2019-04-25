@@ -14,6 +14,11 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/prod/prod.properties" timestamp="1556197827417">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Cat.java" timestamp="1463747203907">
         <mark key="[" line="17" column="6" />
       </file>
@@ -28,6 +33,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task01/Solution.java" timestamp="1461840294055">
         <mark key="[" line="23" column="41" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/pom.xml" timestamp="1556200222382">
+        <mark key="[" line="110" column="12" />
+        <mark key="]" line="110" column="12" />
+        <mark key="." line="110" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task02/Cat.java" timestamp="1463736750690">
         <mark key="[" line="17" column="19" />
@@ -81,6 +91,16 @@
         <mark key="]" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/demo/env.demo.properties" timestamp="1556197278343">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/prod/env.prod.properties" timestamp="1556197321010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task01/Solution.java" timestamp="1463400560315">
         <mark key="[" line="21" column="7" />
       </file>
@@ -102,7 +122,6 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task09/Solution.java" timestamp="1461936369028">
         <mark key="[" line="25" column="6" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightsSchemaBCG.json" timestamp="1556183121244" />
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task01/Solution.java" timestamp="1463403655745">
         <mark key="[" line="12" column="4" />
       </file>
@@ -128,11 +147,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556184316326">
-        <mark key="[" line="400" column="20" />
-        <mark key="]" line="400" column="20" />
-        <mark key="^" line="359" column="0" />
-        <mark key="." line="400" column="20" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556200040798">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="422" column="20" />
+        <mark key="^" line="381" column="0" />
+        <mark key="." line="422" column="20" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556007882561">
         <mark key="[" line="4" column="24" />
@@ -199,7 +218,7 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task03/Solution.java" timestamp="1463402537248">
         <mark key="[" line="16" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556190279549">
+      <file name="/Dummy.txt" timestamp="1556199058134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -243,13 +262,6 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task04/Solution.java" timestamp="1463478823151">
         <mark key="[" line="9" column="5" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightOneWayBody.json" timestamp="1556175888524" />
-      <file name="D:/WSF/src/Checkimages/WSF.java" timestamp="1511422963557">
-        <mark key="'" line="61" column="34" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDomesticBody.json" timestamp="1556007872989">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -279,13 +291,32 @@
     </jumps>
     <registers>
       <register name="1" type="4">
+        <text>Public class ProdTest {
+
+private String cityCoordinate = &quot;49.069767%2C2.850647&quot;;
+
+private RequestSpecification baseurl = new RequestSpecBuilder()
+.setBaseUri(&quot;https://wsf.wavea.cc/mobile-api/v3&quot;).build();
+
+private RequestSpecification baseUrlAndHeaders = new RequestSpecBuilder()
+.setBaseUri(&quot;https://wsf.wavea.cc/mobile-api/v3&quot;)
+.addHeader(&quot;X-Client-Hash&quot;, &quot;bfc55569e60953dbbbe080abea217bf2d381f77e252aaf67b063fc494af58c95&quot;)
+.addHeader(&quot;X-Client-App&quot;, &quot;com.wholesaleflights.android&quot;)
+.addHeader(&quot;Content-Type&quot;, &quot;application/json&quot;).build();
+
+private byte[] getBytesFromResource(String fileName) throws IOException {
+return Files.readAllBytes(Paths.get(&quot;./src/test/resources/&quot; + fileName));
+}
+}</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>https://wsf.wavea.cc/mobile-api/v3&quot;</text>
+      </register>
+      <register name="2" type="4">
         <text>.queryParam(&quot;nearest&quot;, false)
                 .queryParam(&quot;popularUSA&quot;, true)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>c(baseUrlAndHeaders)</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>@Test
     public void queryFlightDepartNotFromUSATest() throws IOException {
 
@@ -300,16 +331,16 @@
                 .body(&quot;errorMessage&quot;, is(&quot;We do not sell economy, domestic, or flights that cost under $2500.&quot;));
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KGdldEJ5dGVzRnJvbVJlc291cmNlKCJxdWVyeUZsaWdodERvbWVzdGljQm9keS5qc29uIikpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5RmxpZ2h0T25lV2F5VGVzdCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PHJvbGUgcm9sZW5hbWU9InRvbWNhdCIvPgogIDxyb2xlIHJvbGVuYW1lPSJyb2xlMSIvPgogIDxyb2xlIHJvbGVuYW1lPSJhZG1pbiIvPgogIDxyb2xlIHJvbGVuYW1lPSJtYW5hZ2VyIi8+CiAgPHVzZXIgdXNlcm5hbWU9InRlc3QiIHBhc3N3b3JkPSIxMjM0NTY+IiByb2xlcz0idG9tY2F0Ii8+CiAgPHVzZXIgdXNlcm5hbWU9ImJvdGgiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJ0b21jYXQscm9sZTEiLz4KICA8dXNlciB1c2VybmFtZT0icm9sZTEiIHBhc3N3b3JkPSIxMjM0NTYiIHJvbGVzPSJyb2xlMSIvPgogIDx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9IjEyMzQ1NiIgcm9sZXM9ImFkbWluLCBtYW5hZ2VyIi8+</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>//    @Test
 //    public void Chrome_Request() throws Exception {
 //
@@ -341,20 +372,17 @@
 //        driver.quit();
 //    }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>ChromeOptions o = new ChromeOptions();
            o.addArguments(&quot;disable-extensions&quot;);
            o.addArguments(&quot;--start-maximized&quot;);</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>public class compare {
 }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
-      </register>
       <register name="-" type="4">
-        <text>c(baseUrlAndHeaders)</text>
+        <text>https://wsf.wavea.cc/mobile-api/v3&quot;</text>
       </register>
     </registers>
     <search>
