@@ -6,10 +6,6 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson01/task01/Solution.java" timestamp="1461856125714">
         <mark key="[" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus01/Solution.java" timestamp="1463749918660">
-        <mark key="'" line="22" column="36" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task05/StringHelper.java" timestamp="1463739276997">
         <mark key="[" line="15" column="8" />
       </file>
@@ -66,6 +62,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task02/Solution.java" timestamp="1461941728431">
         <mark key="[" line="12" column="6" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightWithPriceBCG.json" timestamp="1556183363318">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home03/Solution.java" timestamp="1461854740634">
         <mark key="[" line="14" column="7" />
       </file>
@@ -101,6 +102,7 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task09/Solution.java" timestamp="1461936369028">
         <mark key="[" line="25" column="6" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightsSchemaBCG.json" timestamp="1556183121244" />
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task01/Solution.java" timestamp="1463403655745">
         <mark key="[" line="12" column="4" />
       </file>
@@ -126,11 +128,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556181350151">
-        <mark key="[" line="389" column="16" />
-        <mark key="]" line="389" column="16" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556184316326">
+        <mark key="[" line="400" column="20" />
+        <mark key="]" line="400" column="20" />
         <mark key="^" line="359" column="0" />
-        <mark key="." line="389" column="16" />
+        <mark key="." line="400" column="20" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556007882561">
         <mark key="[" line="4" column="24" />
@@ -281,8 +283,7 @@
                 .queryParam(&quot;popularUSA&quot;, true)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.queryParam(&quot;nearest&quot;, false)
-                .queryParam(&quot;popularUSA&quot;, true)</text>
+        <text>c(baseUrlAndHeaders)</text>
       </register>
       <register name="2" type="4">
         <text>@Test
@@ -353,7 +354,7 @@
         <text encoding="base64">cHVibGljIGNsYXNzIFVudGl0bGVkIHsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>c(baseUrlAndHeaders)</text>
       </register>
     </registers>
     <search>
