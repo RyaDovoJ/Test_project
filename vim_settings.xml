@@ -36,11 +36,7 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task01/Solution.java" timestamp="1461840294055">
         <mark key="[" line="23" column="41" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/pom.xml" timestamp="1556206484108">
-        <mark key="[" line="91" column="29" />
-        <mark key="]" line="91" column="29" />
-        <mark key="." line="91" column="29" />
-      </file>
+      <file name="E:/GitHub/wsf_api_tests/pom.xml" timestamp="1556264423253" />
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task02/Cat.java" timestamp="1463736750690">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="19" />
@@ -306,7 +302,7 @@
         <text encoding="base64">IEBCZWZvcmVDbGFzcwogICAgcHVibGljIHN0YXRpYyB2b2lkIHNldFVwQmVmb3JlQ2xhc3MoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImVudi5kZW1vLnByb3BlcnRpZXMiKTsKICAgICAgICBsb2cuaW5mbygiUmVhZGluZyBjb25maWcgZmlsZSA6ICIgKyBmaWxlTmFtZSk7CiAgICB9CgogICAgQEJlZm9yZUNsYXNzCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc2V0VXBCZWZvcmVDbGFzcygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0cmluZyBmaWxlTmFtZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiZW52LnByb2QucHJvcGVydGllcyIpOwogICAgICAgIGxvZy5pbmZvKCJSZWFkaW5nIGNvbmZpZyBmaWxlIDogIiArIGZpbGVOYW1lKTsKICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEBCZWZvcmVDbGFzcwogICAgcHVibGljIHN0YXRpYyB2b2lkIHNldFVwQmVmb3JlQ2xhc3MoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImVudi5kZW1vLnByb3BlcnRpZXMiKTsKICAgICAgICBsb2cuaW5mbygiUmVhZGluZyBjb25maWcgZmlsZSA6ICIgKyBmaWxlTmFtZSk7CiAgICB9CgogICAgQEJlZm9yZUNsYXNzCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc2V0VXBCZWZvcmVDbGFzcygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0cmluZyBmaWxlTmFtZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiZW52LnByb2QucHJvcGVydGllcyIpOwogICAgICAgIGxvZy5pbmZvKCJSZWFkaW5nIGNvbmZpZyBmaWxlIDogIiArIGZpbGVOYW1lKTsKICAgIH0=</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">PGFydGlmYWN0SWQ+ZGVtbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj45LjAtODAxLmpkYmM0PC92ZXJzaW9uPg==</text>
@@ -350,7 +346,7 @@ return Files.readAllBytes(Paths.get(&quot;./src/test/resources/&quot; + fileName
                 .queryParam(&quot;popularUSA&quot;, true)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text />
       </register>
     </registers>
     <search>
