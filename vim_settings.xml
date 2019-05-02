@@ -93,11 +93,7 @@
         <mark key="]" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/resources/demo/env.demo.properties" timestamp="1556792308134">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/demo/env.demo.properties" timestamp="1556792715927" />
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/prod/env.prod.properties" timestamp="1556265216187">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="1" />
@@ -149,11 +145,11 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556791340121">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="450" column="0" />
-        <mark key="." line="21" column="16" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556794442837">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="445" column="0" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDepartNotFromUSABody.json" timestamp="1556205381705">
         <mark key="[" line="15" column="24" />
@@ -303,34 +299,42 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IDwvcHJvZmlsZT4KICAgIDwvcHJvZmlsZXM+</text>
+        <text>inputStream = Thread.currentThread().getContextClassLoader().getResourceAsStream(&quot;my.properties&quot;);
+    properties = new Properties();
+    properties.load(inputStream);
+    appPort = properties.getProperty(&quot;app.port&quot;);
+    appDomain = properties.getProperty(&quot;app.domain&quot;);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>inputStream = Thread.currentThread().getContextClassLoader().getResourceAsStream(&quot;my.properties&quot;);
+    properties = new Properties();
+    properties.load(inputStream);
+    appPort = properties.getProperty(&quot;app.port&quot;);
+    appDomain = properties.getProperty(&quot;app.domain&quot;);</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PHByb2ZpbGVzPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+ZGVtbzwvaWQ+CiAgICAgICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgICAgICAgPGFjdGl2ZUJ5RGVmYXVsdD50cnVlPC9hY3RpdmVCeURlZmF1bHQ+CiAgICAgICAgICAgIDwvYWN0aXZhdGlvbj4=</text>
+        <text encoding="base64">IDwvcHJvZmlsZT4KICAgIDwvcHJvZmlsZXM+</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5wcm9kPC9pZD4KICAgICAgICAgICAgPGFjdGl2YXRpb24+CiAgICAgICAgICAgICAgICA8cHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPG5hbWU+cHJvZDwvbmFtZT4KICAgICAgICAgICAgICAgICAgICA8L3Byb3BlcnR5PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPG15cHJvcGVydHk+cHJvZDwvbXlwcm9wZXJ0eT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4KICAgIDwvcHJvZmlsZXM+</text>
+        <text encoding="base64">PHByb2ZpbGVzPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+ZGVtbzwvaWQ+CiAgICAgICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgICAgICAgPGFjdGl2ZUJ5RGVmYXVsdD50cnVlPC9hY3RpdmVCeURlZmF1bHQ+CiAgICAgICAgICAgIDwvYWN0aXZhdGlvbj4=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHB1YmxpYyBjbGFzcyBUZXN0VmFyaWFibGV7CgogICAgICAgIERlbW8gPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImVudi5kZW1vIik7CiAgICAgICAgUHJvZCA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiZW52LnByb2QiKTsKICAgIH0=</text>
+        <text encoding="base64">PHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5wcm9kPC9pZD4KICAgICAgICAgICAgPGFjdGl2YXRpb24+CiAgICAgICAgICAgICAgICA8cHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPG5hbWU+cHJvZDwvbmFtZT4KICAgICAgICAgICAgICAgICAgICA8L3Byb3BlcnR5PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPG15cHJvcGVydHk+cHJvZDwvbXlwcm9wZXJ0eT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4KICAgIDwvcHJvZmlsZXM+</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IDxidWlsZF9vcz5saW51eDwvYnVpbGRfb3M+CiAgICAgICAgICAgICAgICA8YnVpbGRfd3M+Z3RrPC9idWlsZF93cz4KICAgICAgICAgICAgICAgIDxidWlsZF9hcmNoPng4Nl82NDwvYnVpbGRfYXJjaD4=</text>
+        <text encoding="base64">IHB1YmxpYyBjbGFzcyBUZXN0VmFyaWFibGV7CgogICAgICAgIERlbW8gPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImVudi5kZW1vIik7CiAgICAgICAgUHJvZCA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiZW52LnByb2QiKTsKICAgIH0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PHByb3BlcnRpZXM+CiAgICAgICAgPG15cHJvcGVydHk+ZGVtbzwvbXlwcm9wZXJ0eT4KICAgIDwvcHJvcGVydGllcz4KICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxteXByb3BlcnR5PnByb2Q8L215cHJvcGVydHk+CiAgICA8L3Byb3BlcnRpZXM+</text>
+        <text encoding="base64">IDxidWlsZF9vcz5saW51eDwvYnVpbGRfb3M+CiAgICAgICAgICAgICAgICA8YnVpbGRfd3M+Z3RrPC9idWlsZF93cz4KICAgICAgICAgICAgICAgIDxidWlsZF9hcmNoPng4Nl82NDwvYnVpbGRfYXJjaD4=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">PHByb3BlcnRpZXM+CiAgICAgICAgPG15cHJvcGVydHk+ZGVtbzwvbXlwcm9wZXJ0eT4KICAgIDwvcHJvcGVydGllcz4KICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxteXByb3BlcnR5PnByb2Q8L215cHJvcGVydHk+CiAgICA8L3Byb3BlcnRpZXM+</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IDxwcm9maWxlcz4KICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPmVudi5kZW1vPC9pZD4KICAgICAgICAgICAgICAgICAgPGRlcGVuZGVuY2llcz4KICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmRlbW88L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZGVtbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8L2RlcGVuZGVuY2llcz4KICAgICAgICAgICAgPGFjdGl2YXRpb24+CiAgICAgICAgICAgICAgICA8YWN0aXZlQnlEZWZhdWx0PnRydWU8L2FjdGl2ZUJ5RGVmYXVsdD4KICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgogICAgICAgIDwvcHJvZmlsZT4KICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPmVudi5wcm9kPC9pZD4KICAgICAgICAgICAgICAgICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5wcm9kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnByb2Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPC9kZXBlbmRlbmNpZXM+CiAgICAgICAgPC9wcm9maWxlPgogICAgPC9wcm9maWxlcz4=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0RW52ID0gU3lzdGVtLmdldFByb3BlcnR5KCJleGVFbnZpcm9ubWVudCIpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBUZXN0IChncm91cHMgPSB7ICJEZW1vIiwgIlByb2QiIH0pCiAgICAgICAgcHVibGljIHZvaWQgdmFsaWRBdXRoZW50aWNhdGlvblRlc3QoKXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIgRGVtbyArIFByb2QiICsgU3lzdGVtLmdldFByb3BlcnR5KCJlbnZpcm9ubWVudCIpKTsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
