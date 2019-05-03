@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson01/task01/Solution.java" timestamp="1461856125714">
         <mark key="[" line="11" column="4" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromSFOtoLON.json" timestamp="1556874376820">
+        <mark key="[" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task05/StringHelper.java" timestamp="1463739276997">
         <mark key="[" line="15" column="8" />
       </file>
@@ -16,10 +19,6 @@
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
-      </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/resources/prod/prod.properties" timestamp="1556203733406">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Cat.java" timestamp="1463747203907">
         <mark key="[" line="17" column="6" />
@@ -32,6 +31,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task03/Solution.java" timestamp="1463411000128">
         <mark key="[" line="17" column="5" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromATLtoLON.json" timestamp="1556876054378">
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task01/Solution.java" timestamp="1461840294055">
         <mark key="[" line="23" column="41" />
@@ -93,6 +95,9 @@
         <mark key="]" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromNYCtoLON.json" timestamp="1556874400145">
+        <mark key="[" line="5" column="15" />
+      </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/prod/env.prod.properties" timestamp="1556265216187">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="1" />
@@ -141,10 +146,13 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home04/Solution.java" timestamp="1463470649683">
         <mark key="[" line="19" column="5" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoBCN.json" timestamp="1556874645309">
+        <mark key="[" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" timestamp="1463673000611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556873226550">
+      <file name="E:/GitHub/wsf_api_tests/src/test/java/com/waveaccess/WsfTest.java" timestamp="1556875681915">
         <mark key="[" line="420" column="4" />
         <mark key="]" line="20" column="4" />
         <mark key="^" line="458" column="0" />
@@ -216,7 +224,7 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task01/Solution.java" timestamp="1461918724466">
         <mark key="[" line="19" column="7" />
       </file>
-      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightBody.json" timestamp="1556873500590" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightBody.json" timestamp="1556874208749" />
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task03/Solution.java" timestamp="1463402537248">
         <mark key="[" line="16" column="7" />
       </file>
@@ -246,8 +254,14 @@
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson07/task04/Circle.java" timestamp="1463668364708">
         <mark key="[" line="11" column="3" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoPARIS.json" timestamp="1556874260985">
+        <mark key="[" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home07/Solution.java" timestamp="1463749684190">
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromSFOtoPAR.json" timestamp="1556874384100">
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task02/Cat.java" timestamp="1463668014575">
         <mark key="[" line="14" column="3" />
@@ -260,6 +274,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/Learn_Java/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task01/Cat.java" timestamp="1461913610152">
         <mark key="[" line="10" column="6" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoLONDON.json" timestamp="1556874789167">
+        <mark key="[" line="6" column="14" />
       </file>
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/prod.properties" timestamp="1556206722366">
         <mark key="[" line="0" column="0" />
@@ -274,10 +291,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoROM.json" timestamp="1556874213029" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoPAR.json" timestamp="1556874589476" />
       <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightDomesticBody.json" timestamp="1556205391650">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromSFOtoAMS.json" timestamp="1556876141575">
+        <mark key="[" line="5" column="15" />
+      </file>
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoNCE.json" timestamp="1556876041163">
+        <mark key="[" line="6" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1513175391800">
         <mark key="[" line="0" column="0" />
@@ -287,11 +312,8 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="D:/compare/src/compare/compare.java" timestamp="1513673680522">
-        <mark key="v" line="6" column="20" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="28" column="8" />
+      <file name="E:/GitHub/wsf_api_tests/src/test/resources/queryFlightPopularFromLAXtoFRA.json" timestamp="1556874661880">
+        <mark key="[" line="6" column="13" />
       </file>
     </filemarks>
     <jumps>
